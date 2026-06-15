@@ -1,12 +1,12 @@
 # Welcome!
 
-Welcome to the NewDarwin project! This is, as the name suggests, yet another Darwin derived OS project.
+Welcome to the NeoDarwin project! This is, as the name suggests, yet another Darwin derived OS project.
 
-Albeit unintentional, NewDarwin serves as a spiritual successor to PureDarwin, additionally aiming for API parity with Apple on many low-level system components, alongside extending and improving upon the existing codebases provided by Apple.
+Albeit unintentional, NeoDarwin serves as a spiritual successor to PureDarwin, additionally aiming for API parity with Apple on many low-level system components, alongside extending and improving upon the existing codebases provided by Apple.
 
-## What is NewDarwin based on?
+## What is NeoDarwin based on?
 
-The current target for NewDarwin is to build using the released source code for macOS Catalina 10.15.6, otherwise known as Darwin 19.6
+The current target for NeoDarwin is to build using the released source code for macOS Catalina 10.15.6, otherwise known as Darwin 19.6
 
 ## Goals for the project
 
@@ -20,7 +20,7 @@ This is then further dividied into numerous projects and targets:
 3. Upgrade the kernel to support more hardware
 4. Build a fresh userspace, with a new libxpc implementation and new utilities and libraries built from the ground up for Darwin
 
-## How do I build NewDarwin?
+## How do I build NeoDarwin?
 
 Apple's own source releases are complicated to build, and require intense research to properly build.
 
